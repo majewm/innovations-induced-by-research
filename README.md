@@ -1,4 +1,4 @@
-## International Conference on Innovations Induced by Research in Technical Systems
+## Development of the complete conference website for the International Conference on Innovations Induced by Research in Technical Systems
 
 ### Author: Maciej Majewski
 
@@ -42,8 +42,6 @@ phpMyAdmin, MySQL servers, Linux VPS (Debian, Ubuntu), Captcha, SSL, logging and
 ![website](/images/php11.jpg)
 
 ![website](/images/php12.jpg)
-
-![website](/images/php13.jpg)
 
 ![website](/images/php14.jpg)
 
